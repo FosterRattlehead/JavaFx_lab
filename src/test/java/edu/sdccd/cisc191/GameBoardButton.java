@@ -21,7 +21,7 @@ public class GameBoardButton extends Button {
 
         // TODO: set min/pref width, default text
         setText("?");
-        setMinWidth(20);
+        setMinWidth(50);
 
     }
 
