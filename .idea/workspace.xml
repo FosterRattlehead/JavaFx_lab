@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51bf0f-aecf-4b72-a857-acda5bef3fee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/sdccd/cisc191/GameBoardButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/sdccd/cisc191/GameBoardLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/sdccd/cisc191/ViewGameBoard.java" afterDir="false" />
-    </list>
+    <list default="true" id="9b51bf0f-aecf-4b72-a857-acda5bef3fee" name="Changes" comment="my go" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,8 +47,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662938526216</updated>
-      <workItem from="1662938528433" duration="308000" />
+      <workItem from="1662938528433" duration="643000" />
     </task>
+    <task id="LOCAL-00001" summary="my go">
+      <created>1662939145878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662939145878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my go" />
+    <option name="LAST_COMMIT_MESSAGE" value="my go" />
   </component>
 </project>
