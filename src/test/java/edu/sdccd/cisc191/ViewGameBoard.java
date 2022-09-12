@@ -56,7 +56,7 @@ public class ViewGameBoard extends Application
 
         // TODO display game there are infinite ways to do this, I used BorderPane with HBox and VBox.
 
-        //for holidng the buttons
+        //for holidng the hbox
         VBox hboxHolders = new VBox();
         //for the text above the program not to be confused by the name in the stage
         HBox topLabs=new HBox();
@@ -67,6 +67,7 @@ public class ViewGameBoard extends Application
 
 
         // Adding the needed informatin Thanks to Kyle for helping me with this part
+        //thanks to kyle for help with this part of the code
         topLabs.getChildren().addAll(fishRemaining,guessesRemaining,message);
 
 
@@ -78,7 +79,7 @@ public class ViewGameBoard extends Application
 
 
         updateHeader();
-
+        //thanks to John De Castro for help with this part of the code
         for (int row=0; row < ModelGameBoard.DIMENSION; row++) {
             // TODO: create row container
             // new hbox that will hold the bottons
@@ -98,7 +99,7 @@ public class ViewGameBoard extends Application
                         updateHeader();
                     }
                 });
-                //thanks to John for this part of the code
+
                 // TODO: add button to row
                 //adding bottons to our new h box
                 rowCon.getChildren().add(button);
